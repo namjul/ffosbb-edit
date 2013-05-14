@@ -1,0 +1,23 @@
+{
+  "name": "ffosbb-edit",
+  "repo": "namjul/ffosbb-edit",
+  "description": "Firefox OS Building Blocks edit_mode component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "edit_mode.css"
+  ],
+  "images": [
+    "edit_mode/images/icons/close.png",
+    "edit_mode/images/ui/alpha.png",
+    "edit_mode/images/ui/danger-disabled.png",
+    "edit_mode/images/ui/danger-press.png",
+    "edit_mode/images/ui/danger.png",
+    "edit_mode/images/ui/default.png",
+    "edit_mode/images/ui/disabled.png",
+    "edit_mode/images/ui/recommend.png",
+    "edit_mode/images/ui/separator-large.png",
+    "edit_mode/images/ui/separator.png",
+    "edit_mode/images/ui/shadow.png"
+  ]
+}
